@@ -1,0 +1,22 @@
+@media (max-width:739px){
+    .header{
+        display: block;
+        height: auto;
+        
+    }
+    .header__list{
+        padding-left: 12px;
+    }
+    .list{
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    border: none;
+    padding-left: 12px;
+    padding-right: 0;
+    }
+    .list-item{
+        border-bottom: 1px solid #ddd;
+        
+    }
+}
